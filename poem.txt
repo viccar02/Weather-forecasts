@@ -1,23 +1,15 @@
 Here's a short bilingual poem comparing the weather in Aalborg, Madrid, and Úbeda:
 
 English:
-Three cities, different skies,
-Aalborg's chill, Madrid's surprise,
-Úbeda's warmth, a gentle breeze,
-Which one to choose, where to be?
-
-Madrid's sunshine, bright and bold,
-Úbeda's heat, a story to be told,
-Aalborg's winds, a cooler tale,
-Tomorrow, Madrid's the place to hail.
+Aalborg's chill begins to fade,
+Madrid's warmth and Úbeda's shade,
+Tomorrow, where to roam?
+Madrid's sunshine calls me home.
 
 Spanish:
-Tres ciudades, cielos distintos,
-Aalborg frío, Madrid sorprendente,
-Úbeda cálida, brisa suave,
-¿Cuál elegir, dónde estar?
+El frío de Aalborg comienza a desvanecer,
+El calor de Madrid y la sombra de Úbeda,
+Mañana, ¿dónde deambular?
+La luz de Madrid me llama a su hogar.
 
-Madrid sol brillante, audaz,
-Úbeda calor, historia que contar,
-Aalborg vientos, relato fresco,
-Mañana, Madrid es el lugar más bello.
+Note: This poem is based on the general trend of the weather data provided, with Aalborg being the coldest, Madrid being the warmest, and Úbeda having a mix of both. The poem suggests that Madrid would be the nicest place to be tomorrow due to its warm and sunny weather.
