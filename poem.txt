@@ -1,15 +1,15 @@
-Here's a short weather poem in English and Spanish:
+Here's a short bilingual poem comparing the weather in Aalborg, Madrid, and Úbeda:
 
 English:
 Aalborg's chill begins to fade,
 Madrid's warmth is gently made,
-Úbeda's sunshine beams so bright,
+Úbeda's sunshine shines so bright,
 Tomorrow, Madrid's the nicest sight.
 
 Spanish:
 El frío de Aalborg comienza a desvanecer,
 El calor de Madrid se forma con suavidad,
-La luz del sol de Úbeda brilla con fuerza,
+La luz solar de Úbeda brilla con fuerza,
 Mañana, Madrid es el lugar más agradable.
 
-Note: This poem compares the weather in Aalborg, Madrid, and Úbeda, describing the differences and suggesting that Madrid would be the nicest place to be tomorrow.
+Note: This poem is based on the general temperature trends in the provided data, with Madrid tend to have higher temperatures than Aalborg and Úbeda. However, please note that the poem is a creative interpretation and not a precise weather forecast.
