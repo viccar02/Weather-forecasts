@@ -3,17 +3,17 @@ Here's a short bilingual poem comparing the weather in Aalborg, Madrid, and Úbe
 English:
 Aalborg's chill begins to fade,
 Madrid's warmth is gently made,
-Úbeda's heat starts to abide,
-Which city would you choose to reside?
-Tomorrow, Madrid's sun will shine,
-A gentle breeze, a peaceful sign.
+Úbeda's heat starts to rise high,
+Each city's charm catches the eye.
+Tomorrow, Madrid's sunny day,
+Would be the nicest place to stay.
 
 Spanish:
 El frío de Aalborg comienza a desvanecer,
 El calor de Madrid se hace suavemente,
-El calor de Úbeda comienza a hacerse sentir,
-¿Qué ciudad elegirías para residir?
-Mañana, el sol de Madrid brillará,
-Una brisa suave, un signo pacífico.
+El calor de Úbeda comienza a subir alto,
+Cada ciudad tiene un encanto que atrapa la vista.
+Mañana, el día soleado de Madrid,
+Sería el lugar más agradable para quedarse.
 
-Note: The poem is based on the general temperature trends in the given data, with Aalborg being the coolest, Madrid being mild, and Úbeda being the warmest. The poem suggests that Madrid might be the most pleasant place to be tomorrow, with its warm sun and gentle breeze.
+Note: This poem is a brief comparison of the three cities' weather, highlighting the unique characteristics of each place. It suggests that Madrid would be the most pleasant destination for the next day, given its sunny weather.
