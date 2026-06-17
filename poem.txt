@@ -1,15 +1,20 @@
-Here's a short bilingual poem comparing the weather in Aalborg, Madrid, and Úbeda:
+Here is a short bilingual poem comparing the weather in Aalborg, Madrid, and Úbeda:
 
-English:
-Aalborg's chill begins to fade,
-Madrid's warmth is gently made,
-Úbeda's heat is burning bright,
-Which city would be nice tomorrow night?
+Mañana, ¿dónde ir?
+Tomorrow, where to go?
+Aalborg, con viento y frío,
+Aalborg, with wind and cold,
+no es el mejor lugar, no.
+is not the best place, no.
 
-Spanish:
-El frío de Aalborg comienza a desvanecer,
-El calor de Madrid se hace con suavidad,
-El calor de Úbeda arde con fuerza,
-¿Qué ciudad sería agradable mañana por la noche?
+Madrid, con sol y calor,
+Madrid, with sun and heat,
+es una buena opción, sí.
+is a good option, yes.
 
-Note: Please keep in mind that the weather data provided is extensive and covers a long period. This poem is a general comparison and not specific to a particular date. If you'd like a poem for a specific date, please let me know.
+Úbeda, con calor y sol,
+Úbeda, with heat and sun,
+es el lugar perfecto, ¡vamos!
+is the perfect place, let's go!
+
+Translation note: I've kept the same rhythm and meter in both languages to make it easy to read and understand. The poem suggests that Úbeda is the nicest place to be tomorrow due to its warm and sunny weather.
