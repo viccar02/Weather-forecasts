@@ -1,29 +1,23 @@
-Here's a short weather poem comparing Aalborg, Madrid, and Úbeda:
+Here's a short weather poem in two languages: English and Spanish.
 
-English:
-Three cities, different skies,
-Aalborg's chill, Madrid's warm surprise,
-Úbeda's heat, a scorching flame,
-Each city unique, with its own weather game.
-Aalborg's winds, a gentle breeze,
-Madrid's sun, a warm summer tease,
-Úbeda's heat, a sweltering test,
-Choose your city, and take a rest.
-Tomorrow's forecast, a sunny day,
-In Madrid, the warmth will stay,
-So pack your bags, and head to Spain,
-And enjoy the sun, without a single rain.
+In Aalborg, the wind blows strong,
+En Aalborg, el viento sopla fuerte,
+With temperatures that don't last long.
+con temperaturas que no duran tanto.
 
-Spanish:
-Tres ciudades, diferentes cielos,
-Aalborg fresca, Madrid cálida sorpresa,
-Úbeda ardiente, una llama abrasadora,
-Cada ciudad única, con su propio juego climático.
-Los vientos de Aalborg, una brisa suave,
-El sol de Madrid, un verano cálido y juguetón,
-El calor de Úbeda, una prueba sofocante,
-Elige tu ciudad, y descansa.
-El pronóstico del mañana, un día soleado,
-En Madrid, el calor permanecerá,
-Así que empaca tus maletas, y dirígete a España,
-Y disfruta del sol, sin una sola lluvia.
+In Madrid, the sun shines bright,
+En Madrid, el sol brilla con fuerza,
+Warming the days with its light.
+calentando los días con su claridad.
+
+In Úbeda, the heat rises high,
+En Úbeda, el calor sube alto,
+A scorching temperature that touches the sky.
+una temperatura abrasadora que toca el cielo.
+
+But if I had to choose where to be,
+Pero si tuviera que elegir dónde estar,
+I'd choose Madrid, warm and free.
+elegiría Madrid, cálido y libre.
+
+Note: Please keep in mind that this poem is based on general trends in the provided weather data and might not reflect the exact conditions on a specific day.
